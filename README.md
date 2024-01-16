@@ -23,3 +23,9 @@ I am so passionate about programming as I hope to become so good at it, I keep p
 - Text appearance and blurry effect on mouse hover.
 - Navbar open and collapse effect.
 - Pseudo elements.
+
+## Tech Stack
+
+- HTML
+- CSS
+- JAVASCRIPT

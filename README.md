@@ -13,3 +13,13 @@ I am so passionate about programming as I hope to become so good at it, I keep p
 - How to use the css filter function.
 - Image gallery with hover, blurry and text appearance on mouse-hover effects.
 - How to create onclick appearance and collapse navbar.
+
+## Features
+
+- Centered slide show
+- 3d cards and hover effects.
+- Event handlers Javascript.
+- CSS filter.
+- Text appearance and blurry effect on mouse hover.
+- Navbar open and collapse effect.
+- Pseudo elements.

@@ -29,3 +29,7 @@ I am so passionate about programming as I hope to become so good at it, I keep p
 - HTML
 - CSS
 - JAVASCRIPT
+
+## Acknowledgements
+
+ - Tutorial by: George Lomidze

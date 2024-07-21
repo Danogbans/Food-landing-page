@@ -16,7 +16,7 @@ I am so passionate about programming as I hope to become so good at it, I keep p
 
 ## Features
 
-- Centered slide show
+- Centered slide show.
 - 3d cards and hover effects.
 - Event handlers Javascript.
 - CSS filter.

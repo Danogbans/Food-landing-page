@@ -15,7 +15,7 @@ document.querySelector('.menu').addEventListener
 
 // Creating icons silide show 
 
-const icons = document.querySelectorAll('.section-1-icons i')
+const icons = document.querySelectorAll('.section-1-icons i') 
 
 let i = 1
 

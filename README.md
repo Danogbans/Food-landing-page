@@ -11,7 +11,7 @@ I am so passionate about programming as I hope to become so good at it, I keep p
 - How to create 3D cards and hover effects.
 - How to add event handlers in JavaScript.
 - How to use the css filter function.
-- Image gallery with hover, blurry and text appearance on mouse-hover effects
+- Image gallery with hover, blurry and text appearance on mouse-hover effects.
 - How to create onclick appearance and collapse navbar.
 
 ## Features
